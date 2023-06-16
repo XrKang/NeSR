@@ -17,7 +17,7 @@ We take spectral reconstruction with an arbitrary number of spectral bands on th
 
 * Prepare the ICVL dataset before inference, it can be downloaded from this [link](https://icvl.cs.bgu.ac.il/hyperspectral/). 
 
-* Download the pre-trained model from [BaiduYun](https://pan.baidu.com/s/10ZHsc7-2S5-NzC_BY9HPow?pwd=eccv),(Access code: eccv).  
+* Download the pre-trained model from [BaiduYun](https://pan.baidu.com/s/10ZHsc7-2S5-NzC_BY9HPow?pwd=eccv) (Access code: eccv).  
 
 
 * Inference with pre-trained model:
