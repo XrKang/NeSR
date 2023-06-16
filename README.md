@@ -39,7 +39,7 @@ If you find our work helpful, please cite the following paper.
 @inproceedings{xu2022continuous,
   title={Continuous spectral reconstruction from rgb images via implicit neural representation},
   author={Xu, Ruikang and Yao, Mingde and Chen, Chang and Wang, Lizhi and Xiong, Zhiwei},
-  booktitle={European Conference on Computer Vision (ECCV)} ,
+  booktitle={European Conference on Computer Vision Workshop (ECCVW)} ,
   year={2022}
 }
 ```
