@@ -2,6 +2,7 @@
 
 > [Continuous Spectral Reconstruction from RGB Images via Implicit Neural Representation](https://link.springer.com/chapter/10.1007/978-3-031-25072-9_6), In *ECCVW* 2022.
 > Ruikang Xu, Mingde Yao, Chang Chen, Lizhi Wang, and Zhiwei Xiong.
+
 > MIPI Workshop Best Paper Honorable Mention.
 
 ****
