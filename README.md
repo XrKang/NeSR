@@ -1,8 +1,8 @@
 # Continuous Spectral Reconstruction from RGB Images via Implicit Neural Representation
 
 > [Continuous Spectral Reconstruction from RGB Images via Implicit Neural Representation](https://link.springer.com/chapter/10.1007/978-3-031-25072-9_6), In *ECCVW* 2022. <br />
-> Ruikang Xu, Mingde Yao, Chang Chen, Lizhi Wang, and Zhiwei Xiong. <br />
-> MIPI Workshop Best Paper Honorable Mention.
+> Ruikang Xu, Mingde Yao, Chang Chen, Lizhi Wang, and Zhiwei Xiong. <br /> 
+> MIPI Workshop Best Paper Honorable Mention. <br />
 
 ****
 
@@ -13,9 +13,12 @@
 ****
 
 ## Quick Start
-We take spectral reconstruction with an arbitrary number of spectral bands on the ICVL dataset as example.
+We take spectral reconstruction with an arbitrary number of spectral bands on the ICVL dataset as example. 
 
-* Prepare the ICVL dataset before inference, it can be downloaded from this [link](https://icvl.cs.bgu.ac.il/hyperspectral/).
+* Prepare the ICVL dataset before inference, it can be downloaded from this [link](https://icvl.cs.bgu.ac.il/hyperspectral/). 
+
+* Download the pre-trained model from [BaiduYun](https://pan.baidu.com/s/10ZHsc7-2S5-NzC_BY9HPow?pwd=eccv),(Access code: eccv).  
+
 
 * Inference with pre-trained model:
   ```
